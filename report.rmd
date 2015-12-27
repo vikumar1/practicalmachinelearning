@@ -1,5 +1,5 @@
 ---
-title: "Practical Machine Learning Project - Quantified Self Movement Data Analysis Report"
+title: "Practical Machine Learning Project"
 Author: Vijay Kumar
 
 output: html_document
